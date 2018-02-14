@@ -10,6 +10,8 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit
 
 https://github.com/sindresorhus/awesome
 
+https://github.com/hellerve/programming-talks
+
 ### Algorithms
 
 https://github.com/coells/100days
